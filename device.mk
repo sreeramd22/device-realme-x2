@@ -81,6 +81,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.fingerprint.xml:system/etc/permissions/android.hardware.fingerprint.xml
 
+# FOD Animations
+EXTRA_FOD_ANIMATIONS := true
+
 # Lineage Specific perms
 PRODUCT_COPY_FILES += \
     vendor/bliss/config/permissions/vendor.lineage.biometrics.fingerprint.inscreen.xml:system/etc/permissions/vendor.lineage.biometrics.fingerprint.inscreen.xml
