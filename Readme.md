@@ -17,7 +17,7 @@ Shipped Android Version | 9.0 with ColorOS 6.1
 Storage | 64/128/256GB UFS 2.1
 Battery | Non-removable Li-Po 4000 mAh battery
 Display | 1080 x 2340 pixels, 20:9 ratio, 6.4 inches, Super AMOLED
-Rear Camera  | 64MP (wide) / 8MP (telephoto) / 2MP (ultrawide) / 2MP (depth)
+Rear Camera  | 64MP (wide) / 8MP (ultrawide) / 2MP (ultrawide) / 2MP (depth)
 Front Camera | 32MP
 
 ## Device picture
